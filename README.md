@@ -1,3 +1,13 @@
+for 大須賀デモ
+
+by 北＠んぱんぱLLC
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+2020/0  調整※　
+2020/09/26  Ruby on Rails/フレームアップ　
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
